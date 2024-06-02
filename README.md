@@ -1,8 +1,8 @@
 # Hi there 👋
 
-### I am a computational biologist who is intersted in evolution of small proteins and peptides, comparative transcriptomic analysis and data analysis
-
-### Check out my page here [igorfesenko.github.io](https://igorfesenko.github.io)
+**I am a computational biologist who is intersted in evolution of small proteins and peptides, comparative transcriptomic analysis and data analysis**
+<br>
+Check out my page here [igorfesenko.github.io](https://igorfesenko.github.io)
 <br>
 <br>
 <br>
