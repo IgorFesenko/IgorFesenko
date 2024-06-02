@@ -1,10 +1,9 @@
 # Hi there 👋
 
 ### I am a computational biologist who is intersted in proteomics, peptidomics, evolution of small proteins and peptides, comparative transcriptomic analysis and data analysis
-<br>
+
 ### Check out my page here [igorfesenko.github.io](https://igorfesenko.github.io).
-<br>
-<br>
+
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-fesenko-0a83691a8)
 [<img align="left" alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />](https://www.researchgate.net/profile/Igor-Fesenko)
