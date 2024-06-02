@@ -1,4 +1,4 @@
-# Hi there 👋
+# Igor Fesenko, PhD 👋
 
 **I am a computational biologist who is intersted in evolution of small proteins and peptides, comparative transcriptomic analysis and data analysis**
 <br>
