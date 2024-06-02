@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a computational biologist who is intersted in proteomics, peptidomics and data analysis
+
+<br>
+
 <!--
 **IgorFesenko/IgorFesenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
